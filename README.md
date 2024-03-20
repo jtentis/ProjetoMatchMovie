@@ -3,9 +3,9 @@
 <img src="Logo.png" width="200px" height="280px">
 
 #
-![Static Badge](https://img.shields.io/badge/Match-Movie-D46162)
-![GitHub language count](https://img.shields.io/github/languages/count/jtentis/MatchMovie?color=D46162)
-![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/y/jtentis/MatchMovie?color=D46162)
+![Static Badge](https://img.shields.io/badge/MatchMovie-D46162)
+![GitHub language count](https://img.shields.io/github/languages/count/jtentis/ProjetoMatchMovie?color=D46162)
+![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/y/jtentis/ProjetoMatchMovie?color=D46162)
 
 Aplicativo mobile feito em JAVA utilizando MVVM com REST API e Retrofit. 
 
